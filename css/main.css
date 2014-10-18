@@ -48,7 +48,7 @@ header {
     color: #FFFFFF
 }
 
- .motto {
+ .tagline {
      display: none;
  }
 
@@ -71,7 +71,7 @@ nav li {
 
 .general {
     padding: 1em;
-    }
+}
 
 .menu {
     padding: 1em;
@@ -128,7 +128,7 @@ footer {
         top: 10px;
         right: 10px;
     }
-    .motto {
+    .tagline {
         display: inline;
     }
 }
